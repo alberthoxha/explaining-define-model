@@ -8,7 +8,6 @@ For a more in-depth explanation, check out the accompanying article on Medium
 Define Model is Stable in Vue 3.4 https://medium.com/@dev.alberthoxha/define-model-is-stal-in-vue-3-4-0f25588f5686
 
 
-
 ## Contents
 
 * Introduction: Brief overview of the 'defineModel' function.
